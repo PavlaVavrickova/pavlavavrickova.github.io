@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Budu vytvářet web zabývající se i-school u nás i v USA. Téma jsem si vybrala, protože na něj píšu seminárku k postupové zkoušce.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Pavlavavrickova@gmail.com](mailto:email@domain.com)
